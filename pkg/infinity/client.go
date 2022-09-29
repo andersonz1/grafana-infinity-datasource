@@ -14,10 +14,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
 	"github.com/prometheus/client_golang/prometheus"
-	querySrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/query"
-	settingsSrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/settings"
+	querySrv "github.com/andersonz1/grafana-infinity-datasource/pkg/query"
+	settingsSrv "github.com/andersonz1/grafana-infinity-datasource/pkg/settings"
 )
 
 type Client struct {

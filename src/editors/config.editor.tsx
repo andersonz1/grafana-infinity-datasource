@@ -78,7 +78,7 @@ export const InfinityConfigEditor = (props: DataSourcePluginOptionsEditorProps<I
           <LinkButton variant="secondary" size="md" target="_blank" href="https://yesoreyeram.github.io/grafana-infinity-datasource" rel="noreferrer" style={{ marginInlineEnd: '5px' }}>
             Click here plugin documentation website
           </LinkButton>
-          <LinkButton variant="secondary" size="md" target="_blank" href="https://github.com/yesoreyeram/grafana-infinity-datasource" rel="noreferrer" style={{ marginInlineEnd: '5px' }}>
+          <LinkButton variant="secondary" size="md" target="_blank" href="https://github.com/andersonz1/grafana-infinity-datasource" rel="noreferrer" style={{ marginInlineEnd: '5px' }}>
             Give us a star in Github
           </LinkButton>
           <ProvisioningScript options={options} />

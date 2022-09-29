@@ -11,12 +11,12 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	main "github.com/yesoreyeram/grafana-infinity-datasource/pkg"
-	"github.com/yesoreyeram/grafana-infinity-datasource/pkg/infinity"
-	settingsSrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/settings"
+	main "github.com/andersonz1/grafana-infinity-datasource/pkg"
+	"github.com/andersonz1/grafana-infinity-datasource/pkg/infinity"
+	settingsSrv "github.com/andersonz1/grafana-infinity-datasource/pkg/settings"
 )
 
 func TestAuthentication(t *testing.T) {

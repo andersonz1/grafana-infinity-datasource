@@ -38,7 +38,7 @@ jsonData:
 
 If the allowed hosts are not configured correctly, you will get `Datasource is missing allowed hosts/URLs. Configure it in the datasource settings page.` error when performing the query.
 
-Learn more about this breaking change in the [github discussion](https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/322)
+Learn more about this breaking change in the [github discussion](https://github.com/andersonz1/grafana-infinity-datasource/discussions/322)
 
 #### **Content-Type and Accept headers**
 
@@ -118,7 +118,7 @@ Minimum required grafana version for the infinity plugin is now Grafana v8.4.7. 
 - "as-is" data format added for debugging
 - comma in the numbers are now ignored and considered as number
 - variable editor, global query editor bug fixes. Previously, unable to add columns in variable editor
-- fixes [#191](https://github.com/yesoreyeram/grafana-infinity-datasource/issues/191), [#146](https://github.com/yesoreyeram/grafana-infinity-datasource/issues/146), [#210](https://github.com/yesoreyeram/grafana-infinity-datasource/issues/210)
+- fixes [#191](https://github.com/andersonz1/grafana-infinity-datasource/issues/191), [#146](https://github.com/andersonz1/grafana-infinity-datasource/issues/146), [#210](https://github.com/andersonz1/grafana-infinity-datasource/issues/210)
 
 ## [ 0.7.10 ]
 
@@ -167,7 +167,7 @@ Minimum required grafana version for the infinity plugin is now Grafana v8.4.7. 
 
 ## [ 0.7.1 ]
 
-- Fix for [mixed datasource mode not working in 0.7](https://github.com/yesoreyeram/grafana-infinity-datasource/issues/78)
+- Fix for [mixed datasource mode not working in 0.7](https://github.com/andersonz1/grafana-infinity-datasource/issues/78)
 
 ## [ 0.7.0 ]
 

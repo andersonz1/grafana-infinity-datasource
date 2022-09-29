@@ -61,7 +61,7 @@ export const InfinityHelp = () => {
                     <LinkButton
                       variant="link"
                       style={{ margin: '10px' }}
-                      href="https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/categories/show-and-tell"
+                      href="https://github.com/andersonz1/grafana-infinity-datasource/discussions/categories/show-and-tell"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -71,14 +71,14 @@ export const InfinityHelp = () => {
                     <LinkButton
                       variant="link"
                       style={{ margin: '10px' }}
-                      href="https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/categories/specific-apis"
+                      href="https://github.com/andersonz1/grafana-infinity-datasource/discussions/categories/specific-apis"
                       target="_blank"
                       rel="noreferrer"
                     >
                       API Specific Question
                     </LinkButton>
                     <br />
-                    <LinkButton variant="link" style={{ margin: '10px' }} href="https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/categories/q-a" target="_blank" rel="noreferrer">
+                    <LinkButton variant="link" style={{ margin: '10px' }} href="https://github.com/andersonz1/grafana-infinity-datasource/discussions/categories/q-a" target="_blank" rel="noreferrer">
                       More Questions?
                     </LinkButton>
                     <br />

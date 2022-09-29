@@ -4,10 +4,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/grafana/grafana-plugin-sdk-go/data"
+	"github.com/andersonz1/grafana-plugin-sdk-go/data"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/yesoreyeram/grafana-infinity-datasource/pkg/framesql"
+	"github.com/andersonz1/grafana-infinity-datasource/pkg/framesql"
 )
 
 func TestEvaluateInFrame(t *testing.T) {

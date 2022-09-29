@@ -11,7 +11,7 @@ import (
 	"golang.org/x/oauth2/clientcredentials"
 	"golang.org/x/oauth2/jwt"
 
-	settingsSrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/settings"
+	settingsSrv "github.com/andersonz1/grafana-infinity-datasource/pkg/settings"
 )
 
 func ApplyOAuthClientCredentials(httpClient *http.Client, settings settingsSrv.InfinitySettings) *http.Client {

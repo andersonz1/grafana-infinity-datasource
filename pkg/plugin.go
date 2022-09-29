@@ -3,12 +3,12 @@ package main
 import (
 	"net/http"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/datasource"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/instancemgmt"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/resource/httpadapter"
-	"github.com/yesoreyeram/grafana-infinity-datasource/pkg/infinity"
-	settingsSrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/settings"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/datasource"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/instancemgmt"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/resource/httpadapter"
+	"github.com/andersonz1/grafana-infinity-datasource/pkg/infinity"
+	settingsSrv "github.com/andersonz1/grafana-infinity-datasource/pkg/settings"
 )
 
 type PluginHost struct {

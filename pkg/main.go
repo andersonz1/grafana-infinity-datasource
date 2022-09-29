@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/datasource"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/log"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/datasource"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/log"
 )
 
 func main() {

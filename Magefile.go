@@ -4,7 +4,7 @@ package main
 
 import (
 	// mage:import
-	build "github.com/grafana/grafana-plugin-sdk-go/build"
+	build "github.com/andersonz1/grafana-plugin-sdk-go/build"
 )
 
 var Default = build.BuildAll

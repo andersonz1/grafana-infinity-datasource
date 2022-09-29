@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/gtime"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/gtime"
 )
 
 type macroFunc func(string, []string) (string, error)

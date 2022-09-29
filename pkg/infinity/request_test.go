@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	infinity "github.com/yesoreyeram/grafana-infinity-datasource/pkg/infinity"
-	querySrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/query"
-	settingsSrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/settings"
+	infinity "github.com/andersonz1/grafana-infinity-datasource/pkg/infinity"
+	querySrv "github.com/andersonz1/grafana-infinity-datasource/pkg/query"
+	settingsSrv "github.com/andersonz1/grafana-infinity-datasource/pkg/settings"
 )
 
 func Test_getQueryURL(t *testing.T) {

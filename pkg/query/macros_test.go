@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	querySrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/query"
+	querySrv "github.com/andersonz1/grafana-infinity-datasource/pkg/query"
 )
 
 func TestInterPolateCombineValueMacros(t *testing.T) {

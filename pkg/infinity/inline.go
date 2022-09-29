@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/data"
-	"github.com/yesoreyeram/grafana-framer/jsonFramer"
-	"github.com/yesoreyeram/grafana-infinity-datasource/pkg/framesql"
-	querySrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/query"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/data"
+	"github.com/andersonz1/grafana-framer/jsonFramer"
+	"github.com/andersonz1/grafana-infinity-datasource/pkg/framesql"
+	querySrv "github.com/andersonz1/grafana-infinity-datasource/pkg/query"
 )
 
 func GetFrameForInlineSources(query querySrv.Query) (*data.Frame, error) {

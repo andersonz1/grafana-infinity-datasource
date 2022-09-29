@@ -81,7 +81,7 @@ export const Header = (props: HeaderProps) => {
               </li>
               <li className="nav-item">
                 <button>
-                  <a className="nav-link" href="https://github.com/yesoreyeram/grafana-infinity-datasource/issues/new/choose" target="_blank" rel="noreferrer">
+                  <a className="nav-link" href="https://github.com/andersonz1/grafana-infinity-datasource/issues/new/choose" target="_blank" rel="noreferrer">
                     <i className="fas fa-bug" title="Report Bug"></i>
                     <span className="px-2 small-screen-only">Report Bug</span>
                   </a>
@@ -89,7 +89,7 @@ export const Header = (props: HeaderProps) => {
               </li>
               <li className="nav-item">
                 <button>
-                  <a className="nav-link" href="https://github.com/yesoreyeram/grafana-infinity-datasource" target="_blank" rel="noreferrer">
+                  <a className="nav-link" href="https://github.com/andersonz1/grafana-infinity-datasource" target="_blank" rel="noreferrer">
                     <i className="fab fa-github" title="Github repo"></i>
                     <span className="px-2 small-screen-only">Github</span>
                   </a>

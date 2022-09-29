@@ -52,7 +52,7 @@
 You can download and install this grafana plugin using various options
 
 - From [Grafana plugin catalog](https://grafana.com/grafana/plugins/yesoreyeram-infinity-datasource/)
-- From [Github release page](https://github.com/yesoreyeram/grafana-infinity-datasource/releases) (also available beta, pre-release versions)
+- From [Github release page](https://github.com/andersonz1/grafana-infinity-datasource/releases) (also available beta, pre-release versions)
 - Using grafana cli
   - `grafana-cli plugins install yesoreyeram-infinity-datasource`
 - Using docker
@@ -73,18 +73,18 @@ For the plugin documentation, visit [plugin documentation website](https://yesor
 
 you can contribute in one of the following ways
 
-- If you find any interesting APIs, [showcase](https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/categories/show-and-tell) how you are using the API with Infinity datasource so that other community members will get benefit out of it.
-- [Test different APIs](https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/categories/specific-apis) and create bugs if not working as expected
-- Read the [contributing guide](https://github.com/yesoreyeram/grafana-infinity-datasource/blob/main/CONTRIBUTING.md) for more details
+- If you find any interesting APIs, [showcase](https://github.com/andersonz1/grafana-infinity-datasource/discussions/categories/show-and-tell) how you are using the API with Infinity datasource so that other community members will get benefit out of it.
+- [Test different APIs](https://github.com/andersonz1/grafana-infinity-datasource/discussions/categories/specific-apis) and create bugs if not working as expected
+- Read the [contributing guide](https://github.com/andersonz1/grafana-infinity-datasource/blob/main/CONTRIBUTING.md) for more details
 
 ## ⭐️ Project assistance
 
 If you want to say **thank you** or/and support active development of `Grafana Infinity Datasource`:
 
-- Add a [GitHub Star](https://github.com/yesoreyeram/grafana-infinity-datasource) to the project.
+- Add a [GitHub Star](https://github.com/andersonz1/grafana-infinity-datasource) to the project.
 - Tweet about project [on your Twitter](https://twitter.com/intent/tweet?text=Checkout%20this%20cool%20%23grafana%20datasource%20%40grafanainfinity.%20%0A%0ALiterally,%20get%20your%20data%20from%20anywhere%20into%20%23grafana.%20JSON,%20CSV,%20XML,%20GraphQL,%20OAuth2,%20RSS%20feed,%20%23kubernetes,%20%23azure,%20%23aws,%20%23gcp%20and%20more%20stuff.%0A%0Ahttps%3A//yesoreyeram.github.io/grafana-infinity-datasource%0A).
 - Write articles about project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or personal blog.
 
 ## ⚠️ License
 
-This project is licensed under [Apache 2.0](https://github.com/yesoreyeram/grafana-infinity-datasource/blob/main/LICENSE)
+This project is licensed under [Apache 2.0](https://github.com/andersonz1/grafana-infinity-datasource/blob/main/LICENSE)

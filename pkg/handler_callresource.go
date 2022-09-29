@@ -9,7 +9,7 @@ import (
 	"github.com/graphql-go/graphql"
 	"github.com/graphql-go/handler"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	querySrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/query"
+	querySrv "github.com/andersonz1/grafana-infinity-datasource/pkg/query"
 )
 
 func (host *PluginHost) getRouter() *mux.Router {

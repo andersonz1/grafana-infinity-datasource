@@ -4,14 +4,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/data"
-	"github.com/grafana/grafana-plugin-sdk-go/experimental"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/data"
+	"github.com/andersonz1/grafana-plugin-sdk-go/experimental"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/yesoreyeram/grafana-infinity-datasource/pkg/infinity"
-	"github.com/yesoreyeram/grafana-infinity-datasource/pkg/mock"
-	querySrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/query"
+	"github.com/andersonz1/grafana-infinity-datasource/pkg/infinity"
+	"github.com/andersonz1/grafana-infinity-datasource/pkg/mock"
+	querySrv "github.com/andersonz1/grafana-infinity-datasource/pkg/query"
 )
 
 var updateGoldenFiles bool = false

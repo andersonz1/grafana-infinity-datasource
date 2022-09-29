@@ -3,8 +3,8 @@ package infinity
 import (
 	"time"
 
-	"github.com/grafana/grafana-plugin-sdk-go/data"
-	querySrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/query"
+	"github.com/andersonz1/grafana-plugin-sdk-go/data"
+	querySrv "github.com/andersonz1/grafana-infinity-datasource/pkg/query"
 )
 
 type CustomMeta struct {

@@ -82,19 +82,19 @@ export const Footer = () => {
               <Link to="/community">Community</Link>
             </h4>
             <ul className="list-unstyled">
-              <FooterMenuitem to="https://github.com/yesoreyeram/grafana-infinity-datasource" internal={false}>
+              <FooterMenuitem to="https://github.com/andersonz1/grafana-infinity-datasource" internal={false}>
                 Contributing
               </FooterMenuitem>
-              <FooterMenuitem to="https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/categories/q-a" internal={false}>
+              <FooterMenuitem to="https://github.com/andersonz1/grafana-infinity-datasource/discussions/categories/q-a" internal={false}>
                 FAQ
               </FooterMenuitem>
-              <FooterMenuitem to="https://github.com/yesoreyeram/grafana-infinity-datasource/discussions" internal={false}>
+              <FooterMenuitem to="https://github.com/andersonz1/grafana-infinity-datasource/discussions" internal={false}>
                 Discussions
               </FooterMenuitem>
-              <FooterMenuitem to="https://github.com/yesoreyeram/grafana-infinity-datasource/issues/new/choose" internal={false}>
+              <FooterMenuitem to="https://github.com/andersonz1/grafana-infinity-datasource/issues/new/choose" internal={false}>
                 Report Bug
               </FooterMenuitem>
-              <FooterMenuitem to="https://github.com/yesoreyeram/grafana-infinity-datasource/issues/new/choose" internal={false}>
+              <FooterMenuitem to="https://github.com/andersonz1/grafana-infinity-datasource/issues/new/choose" internal={false}>
                 Request Feature
               </FooterMenuitem>
             </ul>
@@ -108,10 +108,10 @@ export const Footer = () => {
               <FooterMenuitem to="/blog/github" internal={true}>
                 Github
               </FooterMenuitem>
-              <FooterMenuitem to="https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/38" internal={false}>
+              <FooterMenuitem to="https://github.com/andersonz1/grafana-infinity-datasource/discussions/38" internal={false}>
                 ThingSpeak
               </FooterMenuitem>
-              <FooterMenuitem to="https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/categories/show-and-tell" internal={false}>
+              <FooterMenuitem to="https://github.com/andersonz1/grafana-infinity-datasource/discussions/categories/show-and-tell" internal={false}>
                 More
               </FooterMenuitem>
             </ul>

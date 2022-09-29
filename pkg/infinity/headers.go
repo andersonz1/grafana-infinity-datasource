@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"strings"
 
-	querySrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/query"
-	settingsSrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/settings"
+	querySrv "github.com/andersonz1/grafana-infinity-datasource/pkg/query"
+	settingsSrv "github.com/andersonz1/grafana-infinity-datasource/pkg/settings"
 )
 
 const dummyHeader = "xxxxxxxx"

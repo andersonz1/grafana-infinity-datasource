@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/data"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/data"
 	"github.com/prometheus/client_golang/prometheus"
-	"github.com/yesoreyeram/grafana-infinity-datasource/pkg/infinity"
-	querySrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/query"
-	settingsSrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/settings"
+	"github.com/andersonz1/grafana-infinity-datasource/pkg/infinity"
+	querySrv "github.com/andersonz1/grafana-infinity-datasource/pkg/query"
+	settingsSrv "github.com/andersonz1/grafana-infinity-datasource/pkg/settings"
 )
 
 type key string

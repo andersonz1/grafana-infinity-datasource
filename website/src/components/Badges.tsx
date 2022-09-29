@@ -3,15 +3,15 @@ import React from 'react';
 export const Badges = () => {
   const badges = [
     {
-      link: 'https://github.com/yesoreyeram/grafana-infinity-datasource/actions?query=workflow%3A%22Build+%26+Publish%22',
-      imgSrc: 'https://github.com/yesoreyeram/grafana-infinity-datasource/workflows/Build%20&%20Publish/badge.svg',
+      link: 'https://github.com/andersonz1/grafana-infinity-datasource/actions?query=workflow%3A%22Build+%26+Publish%22',
+      imgSrc: 'https://github.com/andersonz1/grafana-infinity-datasource/workflows/Build%20&%20Publish/badge.svg',
     },
     {
-      link: 'https://github.com/yesoreyeram/grafana-infinity-datasource/issues',
+      link: 'https://github.com/andersonz1/grafana-infinity-datasource/issues',
       imgSrc: 'https://img.shields.io/github/issues/yesoreyeram/grafana-infinity-datasource',
     },
     {
-      link: 'https://github.com/yesoreyeram/grafana-infinity-datasource/blob/main/LICENSE',
+      link: 'https://github.com/andersonz1/grafana-infinity-datasource/blob/main/LICENSE',
       imgSrc: 'https://img.shields.io/github/license/yesoreyeram/grafana-infinity-datasource',
     },
     {

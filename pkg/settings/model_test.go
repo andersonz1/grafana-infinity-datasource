@@ -3,9 +3,9 @@ package settingsSrv_test
 import (
 	"testing"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
 	"github.com/stretchr/testify/assert"
-	settingsSrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/settings"
+	settingsSrv "github.com/andersonz1/grafana-infinity-datasource/pkg/settings"
 )
 
 func TestLoadSettings(t *testing.T) {

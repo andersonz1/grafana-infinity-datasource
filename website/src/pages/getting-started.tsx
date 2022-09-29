@@ -25,7 +25,7 @@ export default function GettingStarted() {
                   </li>
                   <li>
                     Install from{' '}
-                    <a href="https://github.com/yesoreyeram/grafana-infinity-datasource/releases" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/andersonz1/grafana-infinity-datasource/releases" target="_blank" rel="noreferrer">
                       github
                     </a>
                   </li>

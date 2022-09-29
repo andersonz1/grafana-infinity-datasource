@@ -44,4 +44,4 @@ Typically for up to 2 hour you can get all the metrics without any aggregation. 
 
 ## Note
 
-> This post was originally posted in [github discussion](https://github.com/yesoreyeram/grafana-infinity-datasource/discussions/38)
+> This post was originally posted in [github discussion](https://github.com/andersonz1/grafana-infinity-datasource/discussions/38)

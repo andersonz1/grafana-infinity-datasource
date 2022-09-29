@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yesoreyeram/grafana-infinity-datasource.git"
+    "url": "git+https://github.com/andersonz1/grafana-infinity-datasource.git"
   },
   "keywords": [
     "grafana",
@@ -46,7 +46,7 @@
   "author": "Sriramajeyam Sugumaran",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/yesoreyeram/grafana-infinity-datasource/issues"
+    "url": "https://github.com/andersonz1/grafana-infinity-datasource/issues"
   },
   "homepage": "https://yesoreyeram.github.io/grafana-infinity-datasource",
   "dependencies": {

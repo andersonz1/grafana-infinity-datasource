@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/yesoreyeram/grafana-infinity-datasource/pkg/infinity"
-	settingsSrv "github.com/yesoreyeram/grafana-infinity-datasource/pkg/settings"
+	"github.com/andersonz1/grafana-infinity-datasource/pkg/infinity"
+	settingsSrv "github.com/andersonz1/grafana-infinity-datasource/pkg/settings"
 )
 
 type InfinityMocker struct {

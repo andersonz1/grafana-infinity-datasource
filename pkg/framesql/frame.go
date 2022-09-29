@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/grafana/grafana-plugin-sdk-go/data"
+	"github.com/andersonz1/grafana-plugin-sdk-go/data"
 	"gopkg.in/Knetic/govaluate.v3"
 )
 
